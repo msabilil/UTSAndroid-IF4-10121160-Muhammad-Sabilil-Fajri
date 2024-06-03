@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UTSAndroid-IF4-10121160-Muhammad Sabilil Fajri</string>
+    <string name="name_form">Form Pengisian Data</string>
+    <string name="jdl_info">Info</string>
+    <string name="desk_info">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="jdl_jenisTes">Jenis Tes</string>
+    <string name="jdl_tanggalT">Tanggal Terkonfirmasi</string>
+    <string name="jdl_nik">NIK</string>
+    <string name="jdl_nama">Nama</string>
+    <string name="jdl_tanggalLahir">Tanggal Lahir</string>
+    <string name="jdl_jenisKelamin">Jenis Kelamin</string>
+    <string name="jdl_hubAnda">Hubungan dengan Anda</string>
+    Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan
+
+
+</resources>
